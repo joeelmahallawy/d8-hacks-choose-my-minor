@@ -1,0 +1,41 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Minor {
+  ID Int @id @default(autoincrement())
+  NAME String
+  DESCRIPTION String
+  LINKTOWEBSITE String
+  RATING Float
+  REVIEWS Review[]
+  UNIVERSITY University @relation(fields: [UNIVERSITYID],references: [ID])
+  UNIVERSITYID Int
+}
+
+model Review {
+  ID Int @id @default(autoincrement())
+  RATING String
+  STUDENT String
+  CONTENT String
+  MINOR Minor @relation(fields: [MINORID], references: [ID])
+  MINORID Int
+}
+
+model University {
+  ID Int @id @default(autoincrement())
+  NAME String
+  LOCATION String
+  PICTUREURL String
+  MINORS Minor[]
+}
+// 350 Victoria St, Toronto, ON M5B 2K3
+// Ryerson University is a public research university located in Toronto, Ontario, Canada. The university's core campus is situated within the Garden District, although it also operates facilities elsewhere in Toronto. Wikipedia

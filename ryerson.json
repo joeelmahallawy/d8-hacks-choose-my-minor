@@ -1,0 +1,602 @@
+[
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Accounting Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/accounting_minor",
+    "DESCRIPTION": "The Minor in Accounting will offer future business managers and entrepreneurs an understanding of the accounting functions of a business. Courses selected for this Minor are intended to focus on the needs of managers and entrepreneurs."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Acting and Dance Studies Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/acting_dance_minor",
+    "DESCRIPTION": "The Acting/Dance Studies Minor is designed for students who are interested in areas of performance – acting and/or dance – and who desire the opportunity to explore these areas through the prescribed course work of a minor. Courses are appropriate for students who have little or no performance experience as well as those with a significant background in either acting or dance. Students may choose from a variety of possible combinations including courses in dance, acting and academic subjects. Students are advised to consult with the School of Performance Academic Coordinator before commencing courses in the Minor."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Biology Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/biology_minor",
+    "DESCRIPTION": "The Minor in Biology provides students with the opportunity to gain additional knowledge and skills in biology, and at the same time, provide additional options for students still wishing to have an emphasis in another field of science (e.g. chemistry). This Minor is also intended to provide students with additional qualifications, thereby enhancing their options in science-related careers and graduate studies, particularly in fields such as biotechnology and the environmental sciences."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Business Essentials Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/business_essentials_minor",
+    "DESCRIPTION": "This Minor is designed to enhance employment opportunities for students who are not enrolled in programs in the Ted Rogers School of Management (TRSM) through the development of broad-based business knowledge and skills. Specifically, it provides a fundamental understanding of the structure of business and the operation of the market-place both nationally and globally, an introduction to the terms, concepts, and nomenclature of business, basic knowledge about the functional areas of business (e.g. accounting, marketing) and how they are integrated for strategic decision-making, and an appreciation of the importance of finance and accounting in business success. The Minor consists of three required courses that are integrated and team taught. Two of these required courses are foundational, and the third one is a final capstone course. In addition, students may choose up to three electives from eight offerings to deepen their understanding of business."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Caribbean Studies Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/caribbean-studies_minor",
+    "DESCRIPTION": "The Caribbean Studies Minor provides an excellent site for studies of diversity, multiculturalism, colonialism and neocolonialism due to the region’s complex history. Students will also learn about an important diasporic community in Canada, thereby engaging with issues such as migration, transnationalism, racism, and equity. The Minor fosters the development of important skills in research methods, critical analysis and academic writing."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Chemistry Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/chemistry_minor",
+    "DESCRIPTION": "The objective of the Minor in Chemistry is to provide students with the opportunity to gain additional knowledge and skills in chemistry, and at the same time, provide additional options for students still wishing to have an emphasis in another field of science (e.g. Biology). This Minor is also intended to provide students with additional qualifications, thereby enhancing their options in science-related careers and graduate studies, particularly in fields such as biotechnology and the environmental sciences."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Child and Youth Services Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/child_youth_minor",
+    "DESCRIPTION": "The School of Child and Youth Care offers a Minor in Child and Youth Services which should be of interest to students in related fields such as Social Work, Nutrition and Food, Nursing, Disability Studies, Early Childhood Studies, Criminology, Psychology, Arts and Contemporary Studies and Sociology. The focus of the Minor is on understanding and promoting the rights and participation of children and youth through inclusive practice and advocacy. Students will be exposed to a variety of practice methods which may be incorporated into their own discipline.The School of Child and Youth Care offers a full-time four-year degree program in Child and Youth Care, as well as a full- and part-time Direct Entry two-year degree program for graduates of the Child and Youth Work Diploma programs. Many of the courses in this minor have prerequisites."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Communication Design Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/communication_design_minor",
+    "DESCRIPTION": "The Communication Design Minor takes an interdisciplinary approach to introduce students to the elements and principles of design to better understand the creative process and key technologies applied to the design of visual, video, print and online mediums. The Communication Design Minor combines hands-on learning with an understanding of historical, cultural and professional contexts."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Computer Science Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/comp_sci_minor",
+    "DESCRIPTION": "The Communication Design Minor takes an interdisciplinary approach to introduce students to the elements and principles of design to better understand the creative process and key technologies applied to the design of visual, video, print and online mediums. The Communication Design Minor combines hands-on learning with an understanding of historical, cultural and professional contexts.  "
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Criminology Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/criminology_minor",
+    "DESCRIPTION": "The Minor in Criminology provides students with critical thinking skills and substantive knowledge related to the structural, administrative, political and professional context of crime and criminal justice. Understanding the complexity and pervasiveness of criminal justice issues in various fields will provide greater depth and breadth to students' program of study and broaden their career preparation."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Curatorial Studies Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/curatorial_minor",
+    "DESCRIPTION": "Lectures, small group seminars and interaction with curators will provide students in the Curatorial Studies Minor with an overview of curatorial history and practices. Courses include contemporary art history, and a number of specific courses concerned with the concepts and practices of art gallery and curation. The Minor is intended for students who wish to strengthen their understanding of display culture and curatorial practices. Required courses focus on visual communication, technological innovations and the productive economy within which image culture is made. Students should consult with the School of Image Arts Academic Coordinator before starting courses toward the minor."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Cyber Studies Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/cyber_studies",
+    "DESCRIPTION": "The Cyber Studies Minor provide students with the ability to see – and communicate – how technology influences, and is influenced by, human behaviour, legal and policy frameworks and ethical considerations, within the context of cybersecurity. Cyber risk and cybersecurity breaches are having a major disruptive impact in our connected world. They are also multifaceted issues, drawing on technical subjects, elements of human behaviour, and legal and ethical frameworks. The Cyber Studies Minor offers a pathway for students from a range of Ryerson Faculties and disciplines to reflect on cybersecurity, cyber crime and cyber risk through the lens of their own core disciplines. "
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Disability Studies Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/disability_studies_minor",
+    "DESCRIPTION": "The Minor in Disability Studies allows students to explore key issues and debates related to disability. Starting from the perspectives of disabled and mad people, courses highlight advocacy, social transformation and equity. Curriculum is intended to build expertise around accessibility, ethics, law, arts, literature, design, technology, health, social care, rights and justice. Students are encouraged to build a minor that complements and extends their discipline."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "eBusiness Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/ebusiness_minor",
+    "DESCRIPTION": "The Minor in eBusiness prepares students to work in careers in the evolving Internet economy and the world of electronic commerce. It provides students, who have already developed a solid understanding of business principles and operations with in-depth knowledge of the specifics of setting up and operating a 'virtual' business, either stand alone or as part of an existing conventional organization. The Minor is co-ordinated by the Ted Rogers School of Information Technology Management; however, courses in the Minor are delivered by Schools and departments across the Ted Rogers School of Management."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Economics Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/economics_minor",
+    "DESCRIPTION": "The objective of the Minor is to offer students a coherent group of courses in the discipline of Economics. It will enable students from different professional programs to pursue Economics as a related area of study, and it will give both greater breadth and depth to the program of studies of those who choose it. The Minor will provide formal recognition to those students who complete its requirements."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "English Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/english_minor",
+    "DESCRIPTION": "The English Minor provides students with a course of study that focuses on how to read and write critically – that is, analyze, historicize, and politicize literary and cultural texts. Understanding the complexities of texts and their influence in a variety of forms, media, time periods and cultural contexts adds depth and breadth to students' program of study and enhances their career possibilities."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Entrepreneurship and Innovation Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/entrepreneurship_minor",
+    "DESCRIPTION": "Students who complete the Entrepreneurship and Innovation Minor will have developed an understanding of the process of entrepreneurship and the essential factors needed for the successful growth of a new venture. Also, students will have developed an appreciation for the challenges involved in managing innovation and in nurturing creative thinking."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Ethics Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/ethics_minor",
+    "DESCRIPTION": "Socrates raised the basic moral question when he asked: Why are things not better than they are? How should things be instead? The importance of a theoretical and practical knowledge of morality and ethics for both private and public life is increasingly being recognized. As citizens and professionals, ethical fluency is a crucial skill for negotiating the complexities of contemporary life. The Ethics Minor is designed to provide conversancy with the major ethical theories and traditions, along with problem solving and analysis of cases, thus enabling students to prepare themselves for the ethical challenges they may face."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Events and Live Entertainment Management Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/events_entertainment_minor",
+    "DESCRIPTION": "Almost all industries use event or live entertainment products to attract, captivate and emotionally connect with their audience and internal stakeholders. Whether you are a fashion brand (fashion show), media company (on-stage adaptation of media properties), non-profit organization (fundraisers), musician (concerts), municipality (food festivals) or university (academic conferences), events and live entertainment are integral to the creation of emotional bonds and dissemination of information. Students who complete the minor will be exposed to different types of events, business models and skills required to manage and market a live event. The Minor provides students the opportunity to enhance their professional knowledge and career marketability to pursue employment related to events and live entertainment within their given industry."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Environment and Urban Sustainability Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/eus_minor",
+    "DESCRIPTION": "The Minor in Environment and Urban Sustainability (EUS) is offered to students to provide an understanding of sustainability issues as they relate to both the human and natural environments. The Minor gives students the ability to grasp complex issues in a world of finite resources and to learn how to think about solutions and possibilities of creating sustainable actions in our environments. Analytical skills, critical thinking, confident decision making, and solution oriented results are the mainstay of the minor. The EUS Minor enables students from varied disciplines to explore important challenges facing humanity, whether it is in the areas of environmental ethics, green businesses, greener cities, environmental decision making, or similar. The Minor will help students prepare for professional careers in their own area of study and for application to graduate programs."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Family Supports and Community Practice Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/family_minor",
+    "DESCRIPTION": "The Minor in Family Supports and Community Practice is designed to focus on the theme of the Family in Community Context and the methods of Interdisciplinary Practice."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Fashion Studies Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/fashion_minor",
+    "DESCRIPTION": "Students admitted before Fall 2021 may follow this curriculum or the one published in the 2021-2022 Calendar. The Fashion Studies Minor will allow students to pursue a primarily lecture-based overview of the fashion industry, including history, design, textiles, and marketing. The Minor is of interest to students not enrolled in the School of Fashion who wish to understand the various components of the fashion industry. Required courses include a focus on both design and commercial aspects which explores the use of trend information and appropriate material selection for different segments of the fashion marketplace."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Film (Cinema) Studies Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/film_minor",
+    "DESCRIPTION": "The Film (Cinema) Studies Minor will provide students with lectures and screenings aimed at developing an overview of the cinema. Courses include a survey of the history of film, as well as those in national, independent and world cinemas, and animation. The Minor is intended for students who wish to understand the various aesthetic and historical components of the cinema. Required courses focus on the history and critical reception of the cinema, including technological innovations and alternative production arrangements that have engendered independent, artistic and commercial aspects of the medium. Before commencing courses in the minor, students are advised to consult the School of Image Arts web site for further information."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Finance Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/finance_minor",
+    "DESCRIPTION": "The Finance Minor will help to prepare students for careers in financial institutions and business."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "French Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/french_minor",
+    "DESCRIPTION": "This minor presents an excellent opportunity to acquire the necessary language and cultural skills to be able to use French as part of your academic and career plans. Based on the results of their online placement test, students will be advised to enrol in any of the courses below. It must be noted that many language courses build on the learning of previous courses; therefore, it is difficult, if not impossible, for students to take more than one FRE course per semester."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Geographic Analysis Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/geographic_analysis_minor",
+    "DESCRIPTION": "The Geographic Analysis Minor provides interested students with a course of study that focuses on development of real-world solutions to issues surrounding urban growth, economic development, business/service location decisions, climate change, and environmental remediation. In addition to foundation courses in location principles and exploration of the earth and ecosystems, the curriculum includes such electives as Geographic Information Systems (GIS), Geographic Data and Mapping, Demography, and Geodemographics. The minor aims to enhance the professional careers of the students in other disciplines such as Business Management, Hospitality and Tourism Management, Urban and Regional Planning, Environment and Urban Sustainability and other programs within the Faculty of Arts."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Geography Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/geography_minor",
+    "DESCRIPTION": "The Geography Minor provides students with a set of courses to acquire a good understanding of the complex connections that human beings have with their natural and built environments. The Geography Minor adds breadth to students' program of study and enhances their career possibilities. In particular, the Geography Minor serves the needs of the students who wish to pursue a teaching profession with Geography as a second “teachable”, or who wish to gain a broader understanding of international, environmental, urban and Canadian Issues."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Global Management Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/global_mgt_minor",
+    "DESCRIPTION": "All business, whether it is described as domestic or international, is now affected by the global economy. Graduates who have completed the Global Management Minor, will have greater competency in making decisions in this complex global business environment. This Minor offers students a broad range of internationally oriented courses at an undergraduate level, encompassing international marketing, international trade, the management of multinational enterprises, international finance, international economics, as well as ethics and the regulation of international business. Students will also have the opportunity to develop a deeper understanding of the business environment in a specific geographic region."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Global Narratives Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/global_narratives_minor",
+    "DESCRIPTION": "The Minor in Global Narratives is designed to give students the opportunity to study transnational narratives, world literature, and international media studies from interdisciplinary and global perspectives. Students develop an enhanced understanding of regional and global issues, gain expertise in media studies, and investigate the convergence of communication and cultural productions at global crossroads."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Global Politics and Development Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/global_politics_minor",
+    "DESCRIPTION": "The Minor in Global Politics and Development offers students the opportunity to take courses in a range of subjects from different disciplines that will foster critical understanding and awareness about international politics, inequality, and conflict, and to apply this knowledge to their own disciplines. The Minor in Global Politics and Development critically examines conflict and power in the international system, and development issues in the global South, from different theoretical and methodological perspectives. The Minor bridges disciplines and critically reflects on the evolution and character of relations between governments, between governments and international institutions, and between governments and societies and social movements, as well as the benefits and consequences of globalization."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Health Services Management Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/health_services_minor",
+    "DESCRIPTION": "The Minor in Health Services Management will provide students from a variety of academic backgrounds an awareness of how management skills are cultivated within the healthcare industry in Canada. Students will also learn about the Canadian legal system as it applies to health services delivery. Elective topics will cover healthcare-specific information policies, Long Term Care service delivery, project management, health economics, bioethics, and leadership in healthcare."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "History Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/history_minor",
+    "DESCRIPTION": "The History Minor presents an excellent opportunity to explore the past and its meaning for today's world, either across a range of areas and themes from ancient civilizations to contemporary issues in historical perspective, or through focusing on a particular region, period, or approach. In addition to developing research, analytical, and literary skills that students need in order to take their place in the world after graduation, the Minor may be used to fulfill a number of other objectives. These include pursuing personal interests in History, enriching understanding in students' primary fields of study by deepening their historical expertise related to those fields, and providing training and expertise of direct relevance in areas where students wish to seek employment or pursue further studies."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Human Resources Management Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/human_resources_minor",
+    "DESCRIPTION": "The Minor in Human Resources Management focuses on developing the broad set of knowledge and competencies expected of human resources professionals in organizations today. Students receive a solid overview as well as exposure to specialties within the field such as labour relations, recruitment and selection, managing diversity, compensation, organizational behaviour and training and development. Most of the courses in the Minor can also be used toward the Certified Human Resources Professional (CHRP) designation."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Information Technology Management Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/itm_minor",
+    "DESCRIPTION": "The Minor provides business students with opportunities for building some depth in their understanding of the role of information systems in business as well as the principles of developing information systems to meet business requirements. This Minor includes core ITM courses in information systems concepts, e-business concepts, business process analysis and design, and project management applications."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Labour and Employment Relations Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/labour_employment_minor",
+    "DESCRIPTION": "The Minor in Labour and Employment Relations provides students with an interdisciplinary approach to the examination of work and employment relations in Canada. With required coursework in both management and the social sciences, it is designed to assist student pursuit of professional opportunities in labour and employment relations, and to enable more advanced and diverse opportunities for further study in the field."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Law Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/law_minor",
+    "DESCRIPTION": "Increasingly, legal issues are affecting organizations in many fields, whether through increased regulation of particular workplaces or through the need to understand the more global issues affecting many different organizations, in relation to the legal aspects of, for example, international trade, environmental health or information technology. The Law Minor is designed to allow students to prepare themselves for the legal and regulatory environment which they will meet and which they will need to understand in order to function well in their chosen field."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Marketing Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/marketing_minor",
+    "DESCRIPTION": "The Marketing Minor develops the quantitative and qualitative skills and knowledge expected of marketing professionals. Students receive grounding in marketing theories and principles, in marketing metrics and financial marketing, as well as in the IT tools necessary to develop and implement marketing strategies. The number of elective courses has been expanded to allow students to focus their Minor on a particular area within Marketing."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Mathematics Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/mathematics_minor",
+    "DESCRIPTION": "The purpose of the Minor is to offer students an opportunity to attain greater breadth and depth in mathematics than their program normally requires. Courses can be pursued in depth in the general areas of Linear Algebra, Calculus, Statistics, and Discrete Mathematics (where appropriate). Advanced knowledge of mathematics and mathematical techniques are useful to a wide-range of disciplines including computer science, science and engineering."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Middle East and North Africa (MENA) Studies Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/mena_studies_minor",
+    "DESCRIPTION": "This multi-disciplinary minor offers students the opportunity to learn about the histories and cultures of the peoples of the Middle East and North Africa from antiquity to the present day. With this minor, students will gain a greater understanding of an important region of the world that has played a key role in the development of literature, art, science, and technology. While enhancing their appreciation for cultural diversity and their awareness of globalization, students will also expand their knowledge of diasporic communities from this region."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Music and Culture Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/music_culture_minor",
+    "DESCRIPTION": "Music is vital to contemporary society, whether as commercial entertainment, political or social statement, spiritual expression, fine art, or personal pastime. The Minor in Music and Culture focuses on engendering an understanding of music in and as culture and examines music’s functions through a critical lens, using a broad repertoire that allows students to make connections between musical expression and broader political, economic, religious and social spheres."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "News Studies Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/news_studies_minor",
+    "DESCRIPTION": "The Minor in News Studies is designed to give students an understanding of journalism theory and practice. It comprises courses that introduce students to the basic skills of journalism; that delineate the history, practice, theory and ethical standards of the profession that allow them to combine both theory and practice in exploring specific areas of content and media."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Nonprofit and Voluntary Sector Management Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/nonprofit_minor",
+    "DESCRIPTION": "The Minor in Nonprofit and Voluntary Sector Management enables students to focus on the theoretical knowledge and practical competencies required for work in and with the nonprofit sector. The Minor provides the student with an in-depth, interdisciplinary perspective from business and public administration in considering issues critical to this sector."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Occupational Health and Safety Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/occupational_minor",
+    "DESCRIPTION": "The Occupational Health and Safety Minor will prepare students for their responsibilities in protecting workers from risks and hazards in the workplace. It will find immediate application in both public and private sectors, and especially in the increasingly important area of due diligence, which has legal ramifications for everyone in supervisory or management roles."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Organizational Leadership Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/org_leadership_minor",
+    "DESCRIPTION": "The Minor in Organizational Leadership focuses on developing the foundation knowledge and competencies required to successfully lead and manage many different types of organizations. The goal of the Minor is to improve the student's ability to influence, motivate and enable others to contribute toward the effectiveness and success of organizations of which they are members. In addition to courses on leadership, the Minor includes courses on the management of organizational change, interpersonal dynamics, cross-cultural dimensions of OB, negotiation and conflict resolution and organization theory."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Philosophy Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/philosophy_minor",
+    "DESCRIPTION": "The Philosophy Minor develops essential skills in critical thinking and analysis in general. A Minor in Philosophy enhances career possibilities in a number of different areas including the teaching profession, law, and virtually any field where ethics plays a critical role, such as nursing, journalism, business, and community services."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Photography Studies Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/photography_minor",
+    "DESCRIPTION": "The Photography Studies Minor provides students with a primarily lecture-based overview of the history and theory of photographic practices. Courses include a survey of the history of photography, as well as movements within the field that have particular aesthetic and political foundations. Required courses focus on the history and critical reception of photography while electives enable students to pursue special topics in greater depth, such as the relationship between photography and other arts, the photography image and historic events, and contemporary theories of photography. Students are advised to attend an information session provided each winter term and to consult with the School of Image Art's web site for further details."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Physics Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/physics_minor",
+    "DESCRIPTION": "The Physics Minor provides students with the opportunity to deepen their understanding of physical concepts as well as acquire lab and problem solving skills in Physics. The Physics Minor provides an option for students to have an emphasis in a field other than their own; the additional qualifications give them the opportunity to diversify in their choice of graduate program or career after graduation."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Politics Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/politics_minor",
+    "DESCRIPTION": "The Minor in Politics provides students with understanding of the political world. The Minor in Politics is comprised of several courses drawn from each of the sub-fields represented in the Politics and Governance program: Canadian, Comparative, Global, Policy and Theory. Students may select a configuration of courses that provides depth in one sub-field or a cross-section of several. Most courses have prerequisites that are also part of the Minor. Consult the course DESCRIPTIONs to determine the sub-field and prerequisite(s) of each course."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Professional Communication Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/pro_comm_minor",
+    "DESCRIPTION": "High-level competency in written, oral, and visual communication is increasingly recognized as vital to success in business and the public sector. The Minor in Professional Communication develops students' communication professionalism through theoretical and workshop courses emphasizing creative, workable solutions to challenging communication problems."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Psychology Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/psychology_minor",
+    "DESCRIPTION": "The Minor in Psychology complements students' professional studies in a wide range of disciplines and broadens their career preparation. Students acquire an understanding and application of the basic principles of psychology."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Public Administration Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/public_admin_minor",
+    "DESCRIPTION": "The Minor in Public Administration is comprised of three types of courses. There are courses focused on government as a political actor which provide the students with insights into the nature of modern politics. There are policy courses which emphasize the various terrains on which government and organized interests interact. Finally, there are courses in administration. The Minor in Public Administration provides the student with a comprehensive overview of Canadian public administration and policy."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Public Relations Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/public_relations_minor",
+    "DESCRIPTION": "The Minor in Public Relations will help students understand the role of Public Relations experts as they negotiate between the organizations they represent and the media. Through theory and practice, students will gain experience in the tools and ways of thinking that shape stakeholder relationships."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Real Estate Management Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/real_estate_minor",
+    "DESCRIPTION": "The Minor in Real Estate Management will offer students the opportunity to increase their knowledge and skills in real estate. Real estate propels the economy, and this minor allows students to gain the expertise to excel in this bustling arena in both housing and commercial property."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Retail and Services Management Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/retail_minor",
+    "DESCRIPTION": "The Retail and Services Management Minor delivers the fundamentals necessary for understanding the core elements of the retail business. The Minor will also help students gain an understanding of the fundamental importance of managing customer relations and customer satisfaction in an increasingly competitive retail environment. The core courses include courses in retail consumer insight, service quality management, visual merchandising and planning, retail logistics, and retail buying process. Other courses allow the student to increase their knowledge of areas such as franchising, design, commerce and culture, international retail markets, relationship marketing, advanced buying process and multi-channel retailing."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Sales Management and Service Quality Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/sales_minor",
+    "DESCRIPTION": "This interdisciplinary Minor enables students to understand the fundamentals of the sales process, as well as the quantitative and qualitative tools necessary to manage customer relationships and ensure that expectations are met. Students increase their knowledge of the new media tools that dominate sales communication today and are given the opportunity to develop the leadership and management skills that are an integral part of any successful sales team."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Social Innovation Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/social_innovation_minor",
+    "DESCRIPTION": "The fundamental goal of this Minor is to help students engage in the emergent field of social innovation, to see themselves as change-makers and leaders who introduce innovative, radical and sustainable ways of improving life for those living in marginalized, disadvantaged or peripheral circumstance and to change the world for the better. The curriculum offers an interdisciplinary approach, draws on micro and macro analysis and recognizes academic and community expertise. A key aim is to create professional networks of peers and social innovators in fields of practice."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Sociology Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/sociology_minor",
+    "DESCRIPTION": "The professionally-related Minor in Sociology is offered to students to provide a coherent, integrated and sequential exposure to the sociological perspective and to enable students to develop analytical skills and conceptual understanding in a field complementary to their professional programs. The Minor is also intended to broaden the students' career preparation, and to facilitate movement into graduate programs."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Spanish Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/spanish_minor",
+    "DESCRIPTION": "This minor presents an excellent opportunity to acquire the necessary language and cultural skills to be able to use Spanish as part of your academic and career plans. Based on the results of their online placement test, students will be advised to enrol in any of the courses below. It must be noted that many language courses build on the learning of previous courses; therefore, it is difficult, if not impossible, for students to take more than one SPN course per semester."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Tourism Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/tourism_minor",
+    "DESCRIPTION": "The Tourism Minor is intended to provide a complementary area of study for students who wish to understand the nature, content, and structure of tourism experiences and operations. Whether it is from a personal perspective fostering critical reflection of our own motivations and behaviours, or disciplinary lenses that consider a range of outcomes of tourism activity (e.g., economic, social, environmental), tourism is a context ripe for examination. The operating sectors of tourism are typically listed as attractions, events, travel trade (e.g., tour operators), accommodation, transportation, adventure recreation, entertainment, food services, and tourism services (e.g., planning)."
+  },
+  {
+    "UNIVERSITY": {
+      "connect": {
+        "ID": 1
+      }
+    },
+    "NAME": "Visual Studies Minor",
+    "LINKTOWEBSITE": "https://www.ryerson.ca/calendar/2021-2022/minors/visual_minor",
+    "DESCRIPTION": "The Visual Studies Minor is a lecture-based overview of the history and theories of this interdisciplinary field. Courses introduce students to the field by providing a solid foundation in visual culture, art history and contemporary theory. A broad range of current visual culture examples enhance learning and make the study relevant to everyday experiences. Students will explore the social, economic and cultural dimensions of the image-based world that surrounds us. The Required courses focus on visual communication, technological innovations and the productive economy within which image culture is made."
+  }
+]

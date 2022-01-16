@@ -15,7 +15,7 @@ model Minor {
   NAME String
   DESCRIPTION String
   LINKTOWEBSITE String
-  RATING Float
+  RATING Float 
   REVIEWS Review[]
   UNIVERSITY University @relation(fields: [UNIVERSITYID],references: [ID])
   UNIVERSITYID Int
@@ -23,11 +23,14 @@ model Minor {
 
 model Review {
   ID Int @id @default(autoincrement())
-  RATING String
+  RATING Float
   STUDENT String
+  STUDENTPROGRAM String
+  STUDENTPROFILEPIC String
   CONTENT String
   MINOR Minor @relation(fields: [MINORID], references: [ID])
   MINORID Int
+  DATEPOSTED String
 }
 
 model University {
@@ -37,5 +40,3 @@ model University {
   PICTUREURL String
   MINORS Minor[]
 }
-// 350 Victoria St, Toronto, ON M5B 2K3
-// Ryerson University is a public research university located in Toronto, Ontario, Canada. The university's core campus is situated within the Garden District, although it also operates facilities elsewhere in Toronto. Wikipedia

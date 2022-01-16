@@ -6,16 +6,16 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
   try {
     const { query } = req;
 
-    const universityData = await prisma.university.findFirst({
+    const minorData = await prisma.minor.findFirst({
       where: {
         // @ts-expect-error
-        NAME: query.q.toUpperCase(),
+        NAME: query.q.split("-").join(" "),
       },
     });
 
-    res.status(200).json(universityData);
+    res.status(200).json(minorData);
   } catch (err) {
-    res.status(400).json({ universityData: err.message });
+    res.status(400).json({ minorData: null });
   }
 };
 export default handler;

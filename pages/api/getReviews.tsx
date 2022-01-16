@@ -1,21 +1,17 @@
 import { NextApiRequest, NextApiResponse } from "next";
-import { PrismaClient } from "@prisma/client";
 import prisma from "../../lib/prisma";
 
 const handler = async (req: NextApiRequest, res: NextApiResponse) => {
   try {
     const { query } = req;
-
-    const universityData = await prisma.university.findFirst({
+    const reviews = await prisma.review.findMany({
       where: {
-        // @ts-expect-error
-        NAME: query.q.toUpperCase(),
+        MINORID: Number(query.q),
       },
     });
-
-    res.status(200).json(universityData);
+    res.status(200).json(reviews);
   } catch (err) {
-    res.status(400).json({ universityData: err.message });
+    res.status(404).json({ err: err.message });
   }
 };
 export default handler;

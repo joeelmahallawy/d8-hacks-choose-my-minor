@@ -13,6 +13,7 @@ import React from "react";
 import { themes } from "../utils/themes";
 import Link from "next/link";
 import Layout from "../Layout";
+import MinorDegrees from "../ryerson.json";
 
 const IndexPage = () => {
   return (

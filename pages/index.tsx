@@ -8,7 +8,7 @@ import {
   Input,
 } from "@chakra-ui/react";
 import Head from "next/head";
-import UniversityBGImage from "../images/uni-bg.jpeg";
+import UniversityBGImage from "../images/ryelogo.jpeg";
 import React from "react";
 import { themes } from "../utils/themes";
 import Link from "next/link";

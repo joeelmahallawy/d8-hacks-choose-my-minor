@@ -26,8 +26,13 @@ import { NextPageContext } from "next";
 import { useRouter } from "next/router";
 import { MinorDegree } from "../interfaces";
 
-const RateMinorModal = ({ minor }: { minor: MinorDegree }) => {
-  const forceUpdate = useForceUpdate();
+const RateMinorModal = ({
+  minor,
+  setReviews,
+}: {
+  minor: MinorDegree;
+  setReviews: Function;
+}) => {
   const [user, setUser] = useState(useUser().user);
   const getUser = useUser().user;
   useEffect(() => {
@@ -42,6 +47,8 @@ const RateMinorModal = ({ minor }: { minor: MinorDegree }) => {
   });
   const { isOpen, onOpen, onClose } = useDisclosure();
   const router = useRouter();
+  console.log(rating);
+
   return (
     <>
       <Button
@@ -74,11 +81,15 @@ const RateMinorModal = ({ minor }: { minor: MinorDegree }) => {
                   STUDENTPROGRAM: rating.studentProgram,
                   STUDENTPROFILEPIC: user.picture,
                   CONTENT: rating.specificDetails,
-                  DATEPOSTED: `${dateFormat(new Date(), "fullDate")}`,
+                  DATEPOSTED: Date.now(),
                   MINORID: minor.ID,
                 }),
-              }).then((val) => {
-                forceUpdate();
+              }).then(async (val) => {
+                const getReviews = await fetch(
+                  `${process.env.NEXT_PUBLIC_AUTH0_BASE_URL}/api/getReviews?q=${minor.ID}`
+                );
+                const reviews = await getReviews.json();
+                setReviews([...reviews]);
                 onClose();
                 return toast({
                   title: "Review submitted.",
@@ -99,6 +110,7 @@ const RateMinorModal = ({ minor }: { minor: MinorDegree }) => {
                     stars: e,
                   });
                 }}
+                value={rating.stars}
                 count={5}
                 size={24}
                 color2={"#ffd700"}

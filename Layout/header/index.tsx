@@ -16,19 +16,24 @@ const Header = () => {
     <Center
       p="3rem"
       justifyContent="space-between"
-      bg={themes.colors.primary}
+      // bg={themes.colors.primary}
+      bg="#004892"
       id="nav-bar"
     >
       <Heading
         color="white"
-        fontSize="6xl"
+        fontSize={["2xl", "3xl", "4xl", "5xl", , "5xl", "6xl"]}
         fontFamily="Zilla Slab"
         fontWeight="extrabold"
+        _focus={{}}
+        _hover={{ cursor: "pointer" }}
+        _active={{}}
+        variant="ghost"
       >
         ChooseMyMinor
       </Heading>
 
-      <Flex gap="2rem">
+      <Center gap={["0.5rem", "0.5rem", "1.5rem", "1.5rem", "2rem"]}>
         <Link href="/">
           <Button
             _focus={{}}
@@ -36,9 +41,9 @@ const Header = () => {
             _active={{}}
             variant="ghost"
             color="white"
-            fontSize="3rem"
-            padding="2rem"
-            borderRadius="1.5rem"
+            d={["none", "none", "flex", "flex", "flex"]}
+            fontSize={["1rem", "1rem", "1.5rem", "2rem", "2.5rem", "3rem"]}
+            padding={["1rem", "1rem", "1.5rem", "1.5rem", "2rem"]}
           >
             Home
           </Button>
@@ -48,8 +53,8 @@ const Header = () => {
             <Button
               _focus={{}}
               colorScheme="yellow"
-              fontSize="3rem"
-              padding="2rem"
+              fontSize={["1rem", "1rem", "1.5rem", "2rem", "2.5rem", "3rem"]}
+              padding={["1rem", "1rem", "1.5rem", "1.5rem", "2rem"]}
             >
               Logout
             </Button>
@@ -66,7 +71,7 @@ const Header = () => {
             </Button>
           </Link>
         )}
-      </Flex>
+      </Center>
     </Center>
     // </Link>
   );

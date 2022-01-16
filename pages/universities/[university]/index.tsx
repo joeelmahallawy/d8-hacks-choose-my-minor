@@ -29,7 +29,6 @@ const UniversityPage = ({ universityData }: { universityData: University }) => {
         <Divider />
         <Center flexDir="column">
           {MinorDegrees.map((el, i) => {
-            console.log(el);
             return (
               <Link
                 key={i}

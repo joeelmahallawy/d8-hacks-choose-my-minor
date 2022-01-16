@@ -115,7 +115,7 @@ const handler = async (req, res) => {
             STUDENTPROGRAM: review.STUDENTPROGRAM,
             CONTENT: review.CONTENT,
             MINORID: Math.ceil(Math.random() * 60),
-            DATEPOSTED: review.DATEPOSTED,
+            DATEPOSTED: String(review.DATEPOSTED),
             STUDENTPROFILEPIC: review.STUDENTPROFILEPIC,
           };
         }),

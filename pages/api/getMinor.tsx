@@ -12,7 +12,6 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
         NAME: query.q.split("-").join(" "),
       },
     });
-
     res.status(200).json(minorData);
   } catch (err) {
     res.status(400).json({ minorData: null });
